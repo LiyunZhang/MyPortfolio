@@ -1,2 +1,2 @@
 My Portfolio page:
-https://liyunzhang.github.io/MyPortfolio/
+https://liyunzhang.github.io
